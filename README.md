@@ -1,4 +1,7 @@
 # hello-world
-setup of attila
-hello bots, I am jas. This is my first commit in github. 
-I want to update a new template on ghost.
+
+Hey humans, 
+
+Don't get downgraded and used by technology. Make sure to squat daily and focus deep and everything will be alright.
+
+
